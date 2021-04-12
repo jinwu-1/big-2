@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  suit: MyString
+  number: 1
+  value: 1
+  user: one
+
+two:
+  suit: MyString
+  number: 1
+  value: 1
+  user: two
